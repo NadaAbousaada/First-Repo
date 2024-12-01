@@ -1,2 +1,2 @@
 git init
-g
+ggit addg
